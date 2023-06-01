@@ -1,15 +1,15 @@
 public class Student {
-        private String name;
+    private String name;
 
-        public String getName() {
+    public String getName() {
 
-            return name;
-        }
-
-        public void setName(String newName) {
-
-            name = newName;
-        }
+        return name;
     }
+
+    public void setName(String newName) {
+
+        name = newName;
+    }
+}
 
 

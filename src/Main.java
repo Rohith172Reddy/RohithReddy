@@ -5,7 +5,7 @@ public class Main {
         Student student = new Student();
 
         // Set the name using the setName() method
-        student.setName("Rohith");
+        student.setName("Rohit");
 
         // Get the name using the getName() method
         String name = student.getName();
